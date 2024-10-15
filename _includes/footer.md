@@ -1,4 +1,4 @@
-[Accédez au site-web en français](https://webdocs.cs.ualberta.ca/~kkyars/)
+[English website](https://www.uofacarpool.com)
 &mdash;
 [UofaCarpool](https://www.linkedin.com/company/uofacarpool)
 &mdash;
