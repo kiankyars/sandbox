@@ -4,9 +4,9 @@ bg: green
 color: white
 fa-icon: question
 style: center
-lang: "en"
+lang: "fr"
 ---
 
-## Questions, Concerns or Looking to Collaborate?
+## Questions, préoccupations ou envie de collaborer ?
 
-- Send an [email](mailto:kkyars@ualberta.ca?subject=UofACarpool) with the subject UofACarpool and we will get in touch!
+- Envoyez un [courriel](mailto:kkyars@ualberta.ca?subject=UofACarpool) avec l'objet CovoiturageUd'A et nous vous contacterons !
