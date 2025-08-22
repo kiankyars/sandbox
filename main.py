@@ -2,7 +2,7 @@
 
 # client = OpenAI(
 #             base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-#             api_key="AIzaSyDTr_Tl6-gBsfcGFSIgS7_tUWV426vaCfY",
+#             api_key=GEMINI_API_KEY,
 #         )
 # response = client.chat.completions.create(
 #             model="gemini-2.0-flash",
